@@ -275,8 +275,6 @@ A curated and structured list of **Continual Learning (CL)** papers, focusing on
 
 ---
 
----
-
 ## CL in Multimodal Domain
 
 ### Survey and Books
