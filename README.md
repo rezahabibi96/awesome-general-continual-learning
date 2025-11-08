@@ -250,6 +250,24 @@ A curated and structured list of **Continual Learning** papers
 
 | **Title** | **Year** | **Venue** | **CL Method** | **CL Setting** |
 |-----------|----------|-----------|---------------|----------------|
+| Knowledge informed time series forecasting -- KI-TSF | 2025 | KDD |  | `TSF` |
+| IN-Flow: Instance Normalization Flow for Non-stationary Time Series Forecasting -- IN-Flow | 2025 | KDD |  | `TSF` |
+| Fast and slow streams for online time series forecasting without information leakage -- DSOF | 2025 | ICLR |  | `TSF` |
+| Distribution-aware online learning for urban spatiotemporal forecasting on streaming data -- DOL | 2025 | IJCAI |  | `TSF` |
+| ODEStream: A buffer-free online learning framework with ode-based adaptor for streaming time series forecasting -- ODEStream | 2024 | ArXiv |  | `TSF` |
+| A unified replay-based continuous learning framework for spatio-temporal prediction on streaming data -- STSimSiam | 2024 | ICDE |  | `TSF` |
+| Temporal Continual Learning with Prior Compensation for Human Motion Prediction -- PCF | 2023 | NeurIPS |  | `TSC` |
+| Pattern expansion and consolidation on evolving graphs for continual traffic prediction -- PECPM | 2023 | KDD |  | `TSF` |
+| Online adaptive multivariate time series forecasting -- MTS | 2023 | KDD |  | `TSF` |
+| Learning fast and slow for online time series forecasting -- FSNet | 2023 | ICLR |  | `TSF` |
+| Futures quantitative investment with heterogeneous continual graph neural network -- HCGNN | 2023 | ArXiv |  | `TSF` |
+| Dish-TS: A general paradigm for alleviating distribution shift in time series forecasting --Dish-TS | 2023 | AAAI |  | `TSF` |
+| Streaming traffic flow prediction based on continuous reinforcement learning -- InTrans | 2022 | ICDM |  | `TSF` |
+| Continual learning for human state monitoring - RNN | 2022 | ArXiv |  | `TSC` |
+| TrafficStream: A streaming traffic flow forecasting framework based on graph neural networks and continual learning | 2021 | IJCAI |  | `TSF` |
+| Spatio-temporal event forecasting using incremental multi-source feature learning -- HIML | 2021 | KDD |  | `TSF` |
+| Continual learning for multivariate time series tasks with variable input dimensions -- IG | 2021 | ICDM |  | `TSC`, `TSF` |
+| Continual learning augmented investment decisions -- CLA | 2018 | NeurIPS |  | `TSF` |
 
 ---
 
