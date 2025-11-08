@@ -94,7 +94,7 @@ A curated and structured list of **Continual Learning (CL)** papers, focusing on
 
 | **Title** | **Year** | **Venue** | **CL Method** | **CL Setting** |
 |-----------|:--------:|:---------:|------------------------|:---------------:|
-| Progressive neural networks. -- PNN | 2016 | ArXiv | `Arch-Mod` |  |
+| Progressive neural networks -- PNN | 2016 | ArXiv | `Arch-Mod` |  |
 | Continual learning with deep generative replay -- DGR | 2017 | NeurIPS | `Gen-Data` | `TIL` |
 | Expert gate: Lifelong learning with a network of experts -- EG | 2017 | CVPR | `KD-Rel`, `Arch-Mod` |  |
 | Overcoming catastrophic forgetting in neural networks -- EWC | 2017 | PNAS | `WR` | `TIL` |
@@ -109,7 +109,7 @@ A curated and structured list of **Continual Learning (CL)** papers, focusing on
 | On efficient lifelong learning with a-GEM -- A-GEM | 2018 | ArXiv | `Rep-Label`, `Opt-GradProj` | `TFCL` |
 | Progress & compress: A scalable framework for continual learning -- P&C | 2018 | TMLR | `WR` | `TIL` |
 | Lifelong learning with dynamically expandable networks -- DEN | 2018 | ICLR | `Arch-Mod` | `TIL` |
-| Encoder based lifelong learning -- EBLL | 2018 | ICCV | `KD-Feat` | `TIL` |
+| Encoder based lifelong learning -- EBLL | 2018 | ICCV | `KD-Feat` |  |
 | End-to-end incremental learning -- EEIL | 2018 | ECCV | `KD-Logit`, `Rep-Label` | `CIL` |
 | Overcoming catastrophic forgetting with hard attention to the task -- HAT | 2018 | ICML | `Arch-Mask` | `TIL` |
 | Memory aware synapses: Learning what (not) to forget -- MAS | 2018 | ECCV | `WR` | `TIL`, `OCL`, `TFCL` |
@@ -246,25 +246,33 @@ A curated and structured list of **Continual Learning (CL)** papers, focusing on
 
 ## CL in Natural Language Processing (WIP)
 
-### Method Taxonomy
-
-### Setting Taxonomy
-
 ### Survey and Books
 
 ### Index of Papers
+
+| **Title** | **Year** | **Venue** | **CL Method** | **CL Setting** |
+|-----------|:--------:|:---------:|:-------------|:---------------:|
+| Continual relation learning across domains -- EMAR | 2020 | ACL |  | `DIL` |
+| Continual pre-training of language models for math problem understanding with syntax-aware memory network -- SNCL | 2022 | ACL |  | `CPT` |
+| Continual pretraining of language models -- DAS | 2023 | ICLR |  | `CPT` |
+| Lifelong language pretraining with distribution-specialized experts -- Lifelong-MoE | 2023 | CPT | `CPT` |  |
+| Serial lifelong editing via mixture of knowledge experts -- ARM | 2025 |  |  | `TFCL` |
+| HiDe-LLaVA: Hierarchical decoupling for continual instruction tuning of multimodal large language models -- hiDe-LLaVA | 2025 | ArXiv |  | `TFCIL` |
+| Knowledge decoupling via orthogonal projection for lifelong editing of large language models -- KDE | 2025 | ACL |  | `TFCL` |
+| Neuron-level sequential editing for large language models -- NSE | 2025 | ACL |  | `TFCL` |
 
 ---
 
-## CL in Reinforcement Learning (WIP)
-
-### Method Taxonomy
-
-### Setting Taxonomy
+## CL in Reinforcement Learning
 
 ### Survey and Books
 
 ### Index of Papers
+
+| **Title** | **Year** | **Venue** | **CL Method** | **CL Setting** |
+|-----------|:--------:|:---------:|------------------------|:---------------:|
+| Reinforced continual learning -- RCL | 2018 | NeurIPS |  | `TIL` |
+| Online Continual Learning For Interactive Instruction Following Agents -- CAMA | 2024 | ArXiv |  | `OCl` `BEIL` |
 
 ---
 
