@@ -217,7 +217,7 @@ A curated and structured list of **Continual Learning** papers
 | Il2M: Class incremental learning with dual memory -- IL2M | 2019 | ICCV | `Gen-Feat` | `CIL` |
 | Meta-learning representations for continual learning -- OML | 2019 | ICML | `Opt-Meta` | `OCL` |
 | Rotate your networks: Better weight consolidation and less catastrophic forgetting -- R-EWC | 2019 | ICPR | `WR` |  |
-| Continual learning of context-dependent processing in neural networks -- OWM | 2019 | Nature | `Opt-GradProj` | `CIL` |
+| Continual learning of context-dependent processing in neural networks -- OWM | 2019 | Nature | `Opt-GradProj` |  |
 | Gradient based sample selection for online continual learning -- GSS | 2019 | NeurIPS | `Rep-Data` | `CIL`, `OCL`, `TFCL`, `FSCL` |
 | Online continual learning with maximal interfered retrieval -- MIR | 2019 | NeurIPS | `Rep-Data` | `OCL`, `TFCL` |
 | Random path selection for continual learning -- RPSNet | 2019 | NeurIPS | `Arch-Mod` |  |
@@ -293,7 +293,7 @@ A curated and structured list of **Continual Learning** papers
 | Serial lifelong editing via mixture of knowledge experts -- ARM | 2025 | ACL |  | `TFCL` |
 | HiDe-LLaVA: Hierarchical decoupling for continual instruction tuning of multimodal large language models -- hiDe-LLaVA | 2025 | ArXiv |  | `TFCIL` |
 | Continual pretraining of language models -- DAS | 2023 | ICLR |  | `CPT` |
-| Lifelong language pretraining with distribution-specialized experts -- Lifelong-MoE | 2023 | ICML | `CPT` |  |
+| Lifelong language pretraining with distribution-specialized experts -- Lifelong-MoE | 2023 | ICML |  | `CPT` |
 | Continual pre-training of language models for math problem understanding with syntax-aware memory network -- SNCL | 2022 | ACL |  | `CPT` |
 | Continual relation learning across domains -- EMAR | 2020 | ACL |  | `DIL` |
 
