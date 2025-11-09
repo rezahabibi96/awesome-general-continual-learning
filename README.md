@@ -119,34 +119,51 @@ A curated and structured list of **Continual Learning** papers
 | RaSA: Rank-sharing low-rank adaptation -- RaSA | 2025 | ArXiv | `WR`, `Repr-ARL` |  |
 | TreeloRA: Efficient continual learning via layer-wise loRAs guided by a hierarchical gradient-similarity tree -- TreeLoRA | 2025 | ArXiv | `Repr-ARL` |  |
 | SD-LoRA: Scalable decoupled low-rank adaptation for class incremental learning -- SD-LoRA | 2025 | ArXiv | `Repr-ARL` |  |
+| Adapter merging with centroid prototype mapping for scalable class-incremental learning -- ACMap | 2025 | CVPR | `Repr-Proto`, `**` |  |
 | BiloRA: Almost-orthogonal parameter spaces for continual learning -- BiLoRA | 2025 | CVPR | `Repr-ARL` |  |
 | CL-LoRA: Continual low-rank adaptation for rehearsal-free class-incremental learning -- CL-LoRA | 2025 | CVPR | `Repr-ARL` | `CIL` |
 | LoRA subtraction for drift-resistant space in exemplar-free continual learning -- DRS | 2025 | CVPR | `Repr-ARL` |  |
-| Unsupervised continual domain shift learning with multi-prototype modeling -- UCDSL/MPM | 2025 | CVPR | `Repr-Proto` | `DIL` |
 | ProtoDepth: Unsupervised continual depth completion with prototypes -- ProtoDepth | 2025 | CVPR | `Repr-Proto` |  |
-| Adapter merging with centroid prototype mapping for scalable class-incremental learning -- ACMap | 2025 | CVPR | `Repr-Proto` |  |
+| Prototype augmented hypernetworks for continual learning -- PAH | 2025 | CVPR | `**` |  |
+| Unsupervised continual domain shift learning with multi-prototype modeling -- UCDSL/MPM | 2025 | CVPR | `Repr-Proto` | `DIL` |
 | Prototype antithesis for biological few-shot class-incremental learning -- PA | 2025 | ICLR | `Repr-Proto` | `FSCL` |
 | Autoencoder-Based Hybrid Replay for Class-Incremental Learning -- HAE | 2025 | ICML | `Gen-Class` |  |
+| Class incremental learning with self-supervised pre-training and prototype learning -- IPC | 2025 | Pattern Recognition | `**` |  |
+| Contrastive continual learning with importance sampling and prototype-instance relation distillation -- CLIS | 2024 | AAAI | `**` |  |
 | eTag: Class-incremental learning via embedding distillation and task-oriented generation -- eTag | 2024 | AAAI | `Gen-Class` |  |
 | Fine-grained knowledge selection and restoration for non-exemplar class incremental learning -- FGKSR | 2024 | AAAI | `KD-Patch`, `KD-Proto` | `CIL`, `TFCL` |
 | Controlled low-rank adaptation with subspace regularization for continued training on large language models -- CLoRA | 2024 | ArXiv | `WR`, `Repr-ARL` |  |
 | Locality sensitive sparse encoding for learning world models online -- Losse-FTL | 2024 | ArXiv | `Repr-ARL` | `OCL` |
+| Expandable subspace ensemble for pre-trained model-based class-incremental learning -- EASE | 2024 | CVPR | `**` |  |
+| Long-tail class incremental learning via independent sub-prototype construction -- SS | 2024 | CVPR | `**` |  |
+| Resurrecting old classes with new data for exemplar-free continual learning -- ADC | 2024 | CVPR | `**` |  |
+| Exemplar-free continual representation learning via learnable drift compensation -- LDC | 2024 | ECCV | `**` |  |
 | A probabilistic framework for modular continual learning -- PICLE | 2024 | ICLR | `Arch-Mod` |  |
 | Elastic feature consolidation for cold start exemplar-free incremental learning -- EFC | 2024 | ICLR | `KD-Feat` | `CIL` |
 | Task confusion and catastrophic forgetting in class-incremental learning: A mathematical framework for discriminative and generative modelings | 2024 | NeurIPS | `Gen-Class` |  |
+| Introspective GAN: Learning to grow a GAN for incremental generation and classification -- IntroGAN | 2024 | Pattern Recognition | `**` |  |
+| Steering Prototypes with Prompt-tuning for Rehearsal-free Continual Learning -- CPP | 2024 | WACV | `**` |  |
 | Decorate the newcomers: Visual domain prompt for continual test time adaptation -- VDP | 2023 | AAAI | `Repr-Fix` | `DIL` |
 | Consistent prototype learning for few-shot continual relation extraction -- ConPL | 2023 | ACL | `Repr-Proto` | `FSCL` |
 | Continual SLAM: Beyond lifelong simultaneous localization and mapping through continual learning -- CL-SLAM | 2023 | ArXiv | `Repr-SSL` |  |
 | CODA-Prompt: Continual decomposed attention-based prompting for rehearsal-free continual learning -- CODA-Prompt | 2023 | CVPR | `Repr-Fix` | `CIL`, `CPT` |
 | EcoTTA: Memory-efficient continual test-time adaptation via self-distilled regularization -- EcoTTA | 2023 | CVPR | `KD-Feat` |  |
+| FeTrIL: Feature translation for exemplar-free class-incremental learning -- FeTril | 2023 | CVPR | `Repr-Fix`, `**` |  |
 | PIVOT: Prompting for video continual learning -- PIVOT | 2023 | CVPR | `Repr-Fix` | `CIL` |
-| SLCA: Slow learner with classifier alignment for continual learning on a pre-trained model -- SLCA | 2023 | ICCV | `Repr-Fix` |  |
+| NAPA-VQ: Neighborhood aware prototype augmentation with vector quantization for continual learning -- NAPA-VQ | 2023 | ICCV | `**` |  |
+| Online prototype learning for online continual learning -- OnPro | 2023 | ICCV | `**` |  |
+| Prototype reminiscence and augmented asymmetric knowledge aggregation for non-exemplar class-incremental learning -- PR/AKA | 2023 | ICCV | `**` |  |
+| SLCA: Slow learner with classifier alignment for continual learning on a pre-trained model -- SLCA | 2023 | ICCV | `Repr-Fix`, `**` |  |
 | Continual momentum filtering on parameter space for online test-time adaptation -- CMF | 2023 | ICLR | `WR` | `OCL` |
 | Kalman filter online learning from non-stationary data -- KFOCL | 2023 | ICLR | `Repr-Upd` | `OCL`, `CPT` |
 | Progressive prompts: Continual learning for language models -- Progressive-Prompts | 2023 | ICLR | `Repr-Fix` | `CPT` |
+| Prototype-sample relation distillation: towards replay-free continual learning -- PRD | 2023 | ICML | `**` |  |
+| Revisiting class-incremental learning with pre-trained models: generalizability and adaptivity are all you need -- APER | 2023 | IJCV | `**` |  |
 | An empirical investigation of the role of pre-training in lifelong learning -- SAM | 2023 | JMLR | `Repr-Upd`, `Opt-Meta`, `Opt-Loss` | `CPT` |
 | Incorporating neuro-inspired adaptability for continual learning in artificial intelligence -- CAF | 2023 | Nature | `Arch-Mod` |  |
+| FeCAM: Exploiting the heterogeneity of class distributions in exemplar-free continual learning -- FeCAM | 2023 | NeurIPS | `**` |  |
 | Few-shot class-incremental learning via training-free prototype calibration -- TEEN | 2023 | NeurIPS | `Repr-Proto` | `FSCL` |
+| RanPAC: Random projections and pre-trained models for continual learning -- RanPAC | 2023 | NeurIPS | `**` |  |
 | Balancing stability and plasticity through advanced null space in continual learning -- AdNS | 2022 | ArXiv | `Opt-GradProj` |  |
 | DLCFT: Deep linear continual fine-tuning for general incremental learning -- DLCFT | 2022 | ArXiv | `Repr-Fix` |  |
 | Generative negative text replay for continual vision-language pretraining (incCLIP) -- IncCLIP | 2022 | ArXiv | `Repr-ARL` | `CPT` |
@@ -157,7 +174,9 @@ A curated and structured list of **Continual Learning** papers
 | Forward compatible few-shot class-incremental learning -- FACT | 2022 | CVPR | `Repr-Proto` | `FSCL` |
 | Foster: Feature boosting and compression for class-incremental learning -- FOSTER | 2022 | CVPR | `Rep-Feat` | `CIL` |
 | Learning to prompt for continual learning -- L2P | 2022 | CVPR | `Repr-Fix` | `TIL`, `CIL`, `DIL`, `CPT` |
-| Mimicking the oracle: An initial phase decorrelation approach for class incremental learning -- CwD | 2022 | CVPR | `Repr-Fix` |  |
+| Mimicking the oracle: An initial phase decorrelation approach for class incremental learning -- CwD | 2022 | CVPR | `Repr-Fix`, `**` |  |
+| Probing representation forgetting in supervised and unsupervised continual learning -- Probe | 2022 | CVPR | `**` |  |
+| Self-sustaining representation expansion for non-exemplar class-incremental learning -- SSRE | 2022 | CVPR | `**` |  |
 | Towards better plasticity-stability trade-off in incremental learning: A simple linear connector -- Linear Connector | 2022 | CVPR | `Opt-Loss` |  |
 | Anti-retroactive interference for lifelong learning -- ARI | 2022 | ECCV | `Opt-Meta` |  |
 | CoSCL: Cooperation of small continual learners is stronger than a big one -- CoSCL | 2022 | ECCV | `Arch-Mod` |  |
@@ -173,13 +192,18 @@ A curated and structured list of **Continual Learning** papers
 | Class-incremental continual learning into the extended der-verse -- X-DER | 2022 | TPAMI | `Rep-Data` |  |
 | Few-shot lifelong learning -- FSLL | 2021 | AAAI | `Repr-Proto` | `FSCL` |
 | Using hindsight to anchor past knowledge in continual learning -- HAL | 2021 | AAAI | `Rep-Data` |  |
+| Co-transport for class-incremental learning -- COIL | 2021 | ACL | `**` |  |
 | Gradient projection memory for continual learning -- GPM | 2021 | ArXiv | `Opt-GradProj` |  |
 | Meta-learning with less forgetting on large-scale non-stationary task distributions (ORDER) -- ORDER | 2021 | ArXiv | `Repr-ARL` | `CPT` |
 | Class-Incremental Learning with Generative Classifiers -- GC | 2021 | CVPR | `Gen-Class` |  |
-| Insights from the future for continual learning -- PODNet | 2021 | CVPR | `KD-Feat`, `Rep-Feat` | `TIL`, `CIL` |
+| DER: Dynamically expandable representation for class incremental learning -- DER | 2021 | CVPR | `**` |  |
+| Insights from the future for continual learning -- PODNet | 2021 | CVPR | `KD-Feat`, `Rep-Feat`, `**` | `TIL`, `CIL` |
+| Prototype augmentation and self-supervised -- PASS | 2021 | CVPR | `Rep-Feat`, `**` |  |
 | Ss-il: Separated softmax for incremental learning -- SS-IL | 2021 | CVPR | `KD-Logit`, `Rep-Label` | `CIL` |
+| Striking a balance between stability and plasticity for class-incremental learning -- SPB-I/SPB-M| 2021 | ICCV | `**` |  |
 | Efficient continual learning with modular networks and task-driven priors -- MNTDP | 2021 | ICLR | `Arch-Mod` |  |
 | Linear mode connectivity in multitask and continual learning -- MC-SGD | 2021 | ICLR | `Opt-Loss` |  |
+| Class-incremental learning via dual augmentation -- classAug | 2021 | NeurIPS | `**` |  |
 | Continual learning via local module composition -- LMC | 2021 | NeurIPS | `Arch-Mod` |  |
 | Flattening sharpness for dynamic gradient projection memory benefits continual learning -- FS-DGPM | 2021 | NeurIPS | `Opt-GradProj` |  |
 | Model zoo: A growing “brain” that learns continually -- Zoo | 2021 | NeurIPS | `Arch-Mod` |  |
@@ -189,15 +213,18 @@ A curated and structured list of **Continual Learning** papers
 | Orthogonal gradient descent for continual learning -- OGD | 2020 | AISTATS | `Opt-GradProj` |  |
 | Generalized variational continual learning -- GVCL | 2020 | ArXiv | `Arch-Decomp` |  |
 | Representational continuity for unsupervised continual learning -- LUMP | 2020 | ArXiv | `Repr-SSL` |  |
-| Learning to continually learn -- ANML | 2020 | ECAI | `Opt-Meta` |  |
-| Adversarial continual learning -- ACL | 2020 | ECCV | `Arch-Decomp` |  |
-| Gdumb: A simple approach that questions our progress in continual learning -- GDumb | 2020 | ECCV | `Rep-Data` | `TIL` |
-| Remind your neural network to prevent catastrophic forgetting -- REMIND | 2020 | ECCV | `Gen-Feat` | `TIL` |
-| Side-tuning: A baseline for network adaptation via additive side networks -- Side-Tuning | 2020 | ECCV | `Repr-Fix` |  |
 | Class-incremental learning via deep model consolidation -- DMC | 2020 | CVPR | `KD-Rel` |  |
 | iTAML: An incremental task-agnostic meta-learning approach -- iTAML | 2020 | CVPR | `Opt-Meta` |  |
 | Maintaining discrimination and fairness in class incremental learning -- WA | 2020 | CVPR | `Rep-Label` | `CIL` |
 | Mnemonics training: Multi-class incremental learning without forgetting -- Mnemonics | 2020 | CVPR | `Rep-Data`, `Rep-Feat`, `Gen-Data` |  |
+| Semantic drift compensation for class-incremental learning -- SDC | 2020 | CVPR | `**` |  |
+| Learning to continually learn -- ANML | 2020 | ECAI | `Opt-Meta` |  |
+| Adversarial continual learning -- ACL | 2020 | ECCV | `Arch-Decomp` |  |
+| Gdumb: A simple approach that questions our progress in continual learning -- GDumb | 2020 | ECCV | `Rep-Data` | `TIL` |
+| PODNet: Pooled outputs distillation for small-tasks incremental learning -- PODNet | 2020 | ECCV | `KD-Feat`, `Rep-Feat`, `**` | `TIL`, `CIL` |
+| Remind your neural network to prevent catastrophic forgetting -- REMIND | 2020 | ECCV | `Gen-Feat` | `TIL` |
+| Side-tuning: A baseline for network adaptation via additive side networks -- Side-Tuning | 2020 | ECCV | `Repr-Fix` |  |
+| Continual prototype evolution: learning online from non-stationary data streams -- learner-evaluator | 2020 | ICCV | `**` |  |
 | A neural dirichlet process mixture model for task-free continual learning -- GRU-D | 2020 | ICLR | `Repr-Gen` |  |
 | Continual learning in low-rank orthogonal subspaces -- OrthogSubspace | 2020 | NeurIPS | `Opt-GradProj` |  |
 | Continual learning with node-importance based adaptive group sparse regularization -- AGS-CL | 2020 | NeurIPS | `Arch-Realloc` |  |
@@ -211,10 +238,9 @@ A curated and structured list of **Continual Learning** papers
 | Continual learning via neural pruning -- CLNP | 2019 | ArXiv | `Arch-Realloc` | `TIL` |
 | Continual learning with hypernetworks -- HNET | 2019 | ArXiv | `WR`, `Gen-Data` | `TIL`, `CIL`, `TFCL` |
 | Large scale incremental learning -- BiC | 2019 | CVPR | `Rep-Label` | `CIL` |
-| Learning a unified classifier incrementally via rebalancing -- LUC | 2019 | CVPR | `WR`, `Rep-Feat` | `CIL` |
+| Learning a unified classifier incrementally via rebalancing -- LUC | 2019 | CVPR | `WR`, `Rep-Feat`, `**` | `CIL` |
 | Learning to remember: A synaptic plasticity driven framework for continual learning -- DGMa/DGMw/DGM | 2019 | CVPR | `Gen-Data`, `Arch-Seg` | `TIL` |
 | Learning without memorizing -- LWM | 2019 | CVPR | `WR` | `CIL` |
-| Prototype augmentation and self-supervised -- PASS | 2019 | CVPR | `Rep-Feat` |  |
 | Il2M: Class incremental learning with dual memory -- IL2M | 2019 | ICCV | `Gen-Feat` | `CIL` |
 | Meta-learning representations for continual learning -- OML | 2019 | ICML | `Opt-Meta` | `OCL` |
 | Rotate your networks: Better weight consolidation and less catastrophic forgetting -- R-EWC | 2019 | ICPR | `WR` |  |
@@ -230,7 +256,7 @@ A curated and structured list of **Continual Learning** papers
 | Memory aware synapses: Learning what (not) to forget -- MAS | 2018 | ECCV | `WR` | `TIL`, `OCL`, `TFCL` |
 | Piggyback: Adapting a single network to multiple tasks by learning to mask weights -- Piggyback | 2018 | ECCV | `Arch-Mask` | `TIL` |
 | Riemannian walk for incremental learning: Understanding forgetting and intransigence -- RWalk | 2018 | ECCV | `WR`, `Rep-Data` | `TIL`, `CIL` |
-| Encoder based lifelong learning -- EBLL | 2018 | ICCV | `KD-Feat` |  |
+| Encoder based lifelong learning -- EBLL | 2018 | ICCV | `KD-Feat`, `**` |  |
 | Lifelong learning with dynamically expandable networks -- DEN | 2018 | ICLR | `Arch-Mod` | `TIL` |
 | Overcoming catastrophic forgetting with hard attention to the task -- HAT | 2018 | ICML | `Arch-Mask` | `TIL` |
 | Memory replay GANs: Learning to generate images from new categories without forgetting -- MeRGANs | 2018 | NeurIPS | `Gen-Data` | `TIL` |
@@ -239,7 +265,7 @@ A curated and structured list of **Continual Learning** papers
 | PathNet: Evolution channels gradient descent in super neural networks -- PathNet | 2017 | ArXiv | `Arch-Mod` | `TIL` |
 | Variational continual learning -- VCL | 2017 | ArXiv | `WR` | `TIL` |
 | Expert gate: Lifelong learning with a network of experts -- EG | 2017 | CVPR | `KD-Rel`, `Arch-Mod` |  |
-| iCaRL: Incremental classifier and representation learning -- iCaRL | 2017 | CVPR | `Rep-Data`, `Rep-Label`, `Repr-Proto` | `CIL` |
+| iCaRL: Incremental classifier and representation learning -- iCaRL | 2017 | CVPR | `Rep-Data`, `Rep-Label`, `Repr-Proto`, `**` | `CIL` |
 | Continual learning through synaptic intelligence -- SI | 2017 | ICML | reg; | `TIL` |
 | Continual learning with deep generative replay -- DGR | 2017 | NeurIPS | `Gen-Data` | `TIL` |
 | Gradient episodic memory for continual learning -- GEM | 2017 | NeurIPS | `Rep-Label`, `Opt-GradProj` | `TIL` |
