@@ -51,15 +51,15 @@ A curated and structured list of **Continual Learning** papers
     - Generative Classifier - `Gen-Class`
 
 - **Representation-based**
-  - Self-supervised learning — `Rep-SSL`
+  - Self-supervised learning — `Repr-SSL`
   - Pre-training for Downstream Tasks
-    - Fixed Backbone — `Rep-PT`
-    - Updatable Backbone — `Rep-PT`
-  - Adaptive Representation Learning — `Rep-ARL`
+    - Fixed Backbone — `Repr-Fix`
+    - Updatable Backbone — `Repr-Upd`
+  - Adaptive Representation Learning — `Repr-ARL`
   - Template-based Classification
-    - Prototype-based — `Rep-Proto`
-    - Generative — `Rep-Gen`
-    - Energy-based — `Rep-EBM`
+    - Prototype-based — `Repr-Proto`
+    - Generative — `Repr-Gen`
+    - Energy-based — `Repr-EBM`
 
 - **Optimization-based**
   - Meta Learning — `Opt-Meta`
