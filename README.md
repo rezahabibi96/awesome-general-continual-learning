@@ -317,7 +317,7 @@ A curated and structured list of **Continual Learning** research papers
 | Knowledge decoupling via orthogonal projection for lifelong editing of large language models -- KDE | 2025 | ACL |  | `TFCL` |
 | Neuron-level sequential editing for large language models -- NSE | 2025 | ACL |  | `TFCL` |
 | Serial lifelong editing via mixture of knowledge experts -- ARM | 2025 | ACL |  | `TFCL` |
-| HiDe-LLaVA: Hierarchical decoupling for continual instruction tuning of multimodal large language models -- hiDe-LLaVA | 2025 | ArXiv |  | `TFCIL` |
+| HiDe-LLaVA: Hierarchical decoupling for continual instruction tuning of multimodal large language models -- hiDe-LLaVA | 2025 | ArXiv |  | `TFCL` |
 | Continual pretraining of language models -- DAS | 2023 | ICLR |  | `CPT` |
 | Lifelong language pretraining with distribution-specialized experts -- Lifelong-MoE | 2023 | ICML |  | `CPT` |
 | Continual pre-training of language models for math problem understanding with syntax-aware memory network -- SNCL | 2022 | ACL |  | `CPT` |
