@@ -121,6 +121,7 @@ A curated and structured list of **Continual Learning** research papers
 | Adapter merging with centroid prototype mapping for scalable class-incremental learning -- ACMap | 2025 | CVPR | `Repr-Proto`, `**` |  |
 | BiloRA: Almost-orthogonal parameter spaces for continual learning -- BiLoRA | 2025 | CVPR | `Repr-ARL` |  |
 | CL-LoRA: Continual low-rank adaptation for rehearsal-free class-incremental learning -- CL-LoRA | 2025 | CVPR | `Repr-ARL` | `CIL` |
+| Dual consolidation for pre-trained model-based domain-incremental learning -- DUCT  | 2025 | CVPR |  | `DIL` |
 | LoRA subtraction for drift-resistant space in exemplar-free continual learning -- DRS | 2025 | CVPR | `Repr-ARL` |  |
 | ProtoDepth: Unsupervised continual depth completion with prototypes -- ProtoDepth | 2025 | CVPR | `Repr-Proto` |  |
 | Prototype augmented hypernetworks for continual learning -- PAH | 2025 | CVPR | `**` |  |
@@ -148,6 +149,7 @@ A curated and structured list of **Continual Learning** research papers
 | CODA-Prompt: Continual decomposed attention-based prompting for rehearsal-free continual learning -- CODA-Prompt | 2023 | CVPR | `Repr-Fix` | `CIL`, `CPT` |
 | EcoTTA: Memory-efficient continual test-time adaptation via self-distilled regularization -- EcoTTA | 2023 | CVPR | `KD-Feat` |  |
 | FeTrIL: Feature translation for exemplar-free class-incremental learning -- FeTril | 2023 | CVPR | `Repr-Fix`, `**` |  |
+| PCR: Proxy-based Contrastive Replay for Online Class-Incremental Continual Learning -- PCR  | 2023 | CVPR |  | `OCL` | 
 | PIVOT: Prompting for video continual learning -- PIVOT | 2023 | CVPR | `Repr-Fix` | `CIL` |
 | NAPA-VQ: Neighborhood aware prototype augmentation with vector quantization for continual learning -- NAPA-VQ | 2023 | ICCV | `**` |  |
 | Online prototype learning for online continual learning -- OnPro | 2023 | ICCV | `**` |  |
@@ -175,6 +177,7 @@ A curated and structured list of **Continual Learning** research papers
 | Learning to prompt for continual learning -- L2P | 2022 | CVPR | `Repr-Fix` | `TIL`, `CIL`, `DIL`, `CPT` |
 | Mimicking the oracle: An initial phase decorrelation approach for class incremental learning -- CwD | 2022 | CVPR | `Repr-Fix`, `**` |  |
 | Probing representation forgetting in supervised and unsupervised continual learning -- Probe | 2022 | CVPR | `**` |  |
+| Rainbow Memory: Continual Learning with a Memory of Diverse Samples -- RM  | 2022 | CVPR |  | `CIL` |
 | Self-sustaining representation expansion for non-exemplar class-incremental learning -- SSRE | 2022 | CVPR | `**` |  |
 | Towards better plasticity-stability trade-off in incremental learning: A simple linear connector -- Linear Connector | 2022 | CVPR | `Opt-Loss` |  |
 | Anti-retroactive interference for lifelong learning -- ARI | 2022 | ECCV | `Opt-Meta` |  |
@@ -195,6 +198,7 @@ A curated and structured list of **Continual Learning** research papers
 | Gradient projection memory for continual learning -- GPM | 2021 | ArXiv | `Opt-GradProj` |  |
 | Meta-learning with less forgetting on large-scale non-stationary task distributions (ORDER) -- ORDER | 2021 | ArXiv | `Repr-ARL` | `CPT` |
 | Class-Incremental Learning with Generative Classifiers -- GC | 2021 | CVPR | `Gen-Class` |  |
+| Continual adaptation of visual representations via domain randomization and meta-learning -- Meta-DR  | 2021 | CVPR |  | `DIL` |
 | DER: Dynamically expandable representation for class incremental learning -- DER | 2021 | CVPR | `**` |  |
 | Insights from the future for continual learning -- PODNet | 2021 | CVPR | `KD-Feat`, `Rep-Feat`, `**` | `TIL`, `CIL` |
 | Prototype augmentation and self-supervised -- PASS | 2021 | CVPR | `Rep-Feat`, `**` |  |
@@ -213,6 +217,7 @@ A curated and structured list of **Continual Learning** research papers
 | Generalized variational continual learning -- GVCL | 2020 | ArXiv | `Arch-Decomp` |  |
 | Representational continuity for unsupervised continual learning -- LUMP | 2020 | ArXiv | `Repr-SSL` |  |
 | Class-incremental learning via deep model consolidation -- DMC | 2020 | CVPR | `KD-Rel` |  |
+| Few-shot class-incremental learning -- TOPIC  | 2020 | CVPR |  | `CIL`, `FSCL` |
 | iTAML: An incremental task-agnostic meta-learning approach -- iTAML | 2020 | CVPR | `Opt-Meta` |  |
 | Maintaining discrimination and fairness in class incremental learning -- WA | 2020 | CVPR | `Rep-Label` | `CIL` |
 | Mnemonics training: Multi-class incremental learning without forgetting -- Mnemonics | 2020 | CVPR | `Rep-Data`, `Rep-Feat`, `Gen-Data` |  |
@@ -238,6 +243,7 @@ A curated and structured list of **Continual Learning** research papers
 | Continual learning with hypernetworks -- HNET | 2019 | ArXiv | `WR`, `Gen-Data` | `TIL`, `CIL`, `TFCL` |
 | Large scale incremental learning -- BiC | 2019 | CVPR | `Rep-Label` | `CIL` |
 | Learning a unified classifier incrementally via rebalancing -- LUC | 2019 | CVPR | `WR`, `Rep-Feat`, `**` | `CIL` |
+| Learn to grow: A continual structure learning framework for overcoming catastrophic forgetting -- L2G  | 2019 | ArXiv |  | `CIL` |
 | Learning to remember: A synaptic plasticity driven framework for continual learning -- DGMa/DGMw/DGM | 2019 | CVPR | `Gen-Data`, `Arch-Seg` | `TIL` |
 | Learning without memorizing -- LWM | 2019 | CVPR | `WR` | `CIL` |
 | Il2M: Class incremental learning with dual memory -- IL2M | 2019 | ICCV | `Gen-Feat` | `CIL` |
