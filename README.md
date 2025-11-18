@@ -228,7 +228,7 @@ A curated and structured list of **Continual Learning** research papers
 | PODNet: Pooled outputs distillation for small-tasks incremental learning -- PODNet | 2020 | ECCV | `KD-Feat`, `Rep-Feat`, `**` | `TIL`, `CIL` |
 | Remind your neural network to prevent catastrophic forgetting -- REMIND | 2020 | ECCV | `Gen-Feat` | `TIL` |
 | Side-tuning: A baseline for network adaptation via additive side networks -- Side-Tuning | 2020 | ECCV | `Repr-Fix` |  |
-| Continual prototype evolution: learning online from non-stationary data streams -- learner-evaluator | 2020 | ICCV | `**` |  |
+| Continual prototype evolution: learning online from non-stationary data streams -- COPE/learner-evaluator | 2020 | ICCV | `**` |  |
 | A neural dirichlet process mixture model for task-free continual learning -- GRU-D | 2020 | ICLR | `Repr-Gen` |  |
 | Continual learning in low-rank orthogonal subspaces -- OrthogSubspace | 2020 | NeurIPS | `Opt-GradProj` |  |
 | Continual learning with node-importance based adaptive group sparse regularization -- AGS-CL | 2020 | NeurIPS | `Arch-Realloc` |  |
