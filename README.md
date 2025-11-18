@@ -269,7 +269,7 @@ A curated and structured list of **Continual Learning** research papers
 | FearNet: Brain-inspired model for incremental learning -- FearNet | 2017 | ArXiv | `Gen-Data` | `TIL` |
 | PathNet: Evolution channels gradient descent in super neural networks -- PathNet | 2017 | ArXiv | `Arch-Mod` | `TIL` |
 | Variational continual learning -- VCL | 2017 | ArXiv | `WR` | `TIL` |
-| Expert gate: Lifelong learning with a network of experts -- EG | 2017 | CVPR | `KD-Rel`, `Arch-Mod` |  |
+| Expert gate: Lifelong learning with a network of experts -- EG/GATE | 2017 | CVPR | `KD-Rel`, `Arch-Mod` |  |
 | iCaRL: Incremental classifier and representation learning -- iCaRL | 2017 | CVPR | `Rep-Data`, `Rep-Label`, `Repr-Proto`, `**` | `CIL` |
 | Continual learning through synaptic intelligence -- SI | 2017 | ICML | reg; | `TIL` |
 | Continual learning with deep generative replay -- DGR | 2017 | NeurIPS | `Gen-Data` | `TIL` |
