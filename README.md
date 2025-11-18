@@ -265,7 +265,7 @@ A curated and structured list of **Continual Learning** research papers
 | Lifelong learning with dynamically expandable networks -- DEN | 2018 | ICLR | `Arch-Mod` | `TIL` |
 | Overcoming catastrophic forgetting with hard attention to the task -- HAT | 2018 | ICML | `Arch-Mask` | `TIL` |
 | Memory replay GANs: Learning to generate images from new categories without forgetting -- MeRGANs | 2018 | NeurIPS | `Gen-Data` | `TIL` |
-| Progress & compress: A scalable framework for continual learning -- P&C | 2018 | TMLR | `WR` | `TIL` |
+| Progress & compress: A scalable framework for continual learning -- C/P&C | 2018 | TMLR | `WR` | `TIL` |
 | FearNet: Brain-inspired model for incremental learning -- FearNet | 2017 | ArXiv | `Gen-Data` | `TIL` |
 | PathNet: Evolution channels gradient descent in super neural networks -- PathNet | 2017 | ArXiv | `Arch-Mod` | `TIL` |
 | Variational continual learning -- VCL | 2017 | ArXiv | `WR` | `TIL` |
