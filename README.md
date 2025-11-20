@@ -375,4 +375,4 @@ A curated and structured list of **Continual Learning**
 ---
 
 ## Acknowledgements
-Inspired by awesome lists in continual learning and lifelong learning research:
+Inspired by awesome lists in continual learning:
