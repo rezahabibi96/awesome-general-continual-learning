@@ -1,6 +1,6 @@
 # Awesome General Continual Learning (CL)
 
-A curated and structured list of **Continual Learning** research papers
+A curated and structured list of **Continual Learning**
 
 ---
 
