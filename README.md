@@ -308,10 +308,18 @@ A curated and structured list of **Continual Learning**
   - Time Series Classification — `TSC`
   - Time Series Forecasting — `TSF`
 
+### Survey Papers
+
+| **Title** | **Year** | **Venue** | **Type** | **Setting** |
+|-----------|----------|-----------|----------|-------------|
+| Class-incremental learning for time series: Benchmark and evaluation | 2024 | KDD | benchmark paper |  |
+
 ### Research Papers
 
 | **Title** | **Year** | **Venue** | **CL Method** | **CL Setting** |
 |-----------|----------|-----------|---------------|----------------|
+| CA-MoE: Channel-Adapted MoE for Incremental Weather Forecasting -- CA-MoE | 2025 | ArXiv |  | `TSF` |
+| VA-MoE: Variables-Adaptive mixture of experts for incremental weather forecasting -- VA-MoE | 2025 | CVPR |  | `TSF` |
 | Fast and slow streams for online time series forecasting without information leakage -- DSOF | 2025 | ICLR |  | `TSF` |
 | Distribution-aware online learning for urban spatiotemporal forecasting on streaming data -- DOL | 2025 | IJCAI |  | `TSF` |
 | IN-Flow: Instance Normalization Flow for Non-stationary Time Series Forecasting -- IN-Flow | 2025 | KDD |  | `TSF` |
@@ -353,6 +361,12 @@ A curated and structured list of **Continual Learning**
 ---
 
 ## CL in Reinforcement Learning
+
+### Survey Papers
+
+| **Title** | **Year** | **Venue** | **Type** | **Setting** |
+|-----------|----------|-----------|----------|-------------|
+| A survey of continual reinforcement learning | 2025 | TPAMI | survey paper |  |
 
 ### Research Papers
 
