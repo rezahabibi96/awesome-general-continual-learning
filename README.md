@@ -101,12 +101,12 @@ A curated and structured list of **Continual Learning**
 | **Title** | **Year** | **Venue** | **Type** | **Setting** |
 |-----------|----------|-----------|----------|-------------|
 | A reality check on pre-training for exemplar-free class-incremental learning | 2025 | CVPR | benchmark paper |  |
-| Continual learning: A systematic literature review | 2025 | Neural Networks | survey paper |  |
+| Continual learning: A systematic literature review | 2025 | Neural Networks | survey paper | `**` |
 | A comprehensive survey of continual learning: theory, method and application | 2024 | TPAMI | survey paper |  |
 | Class-incremental learning: A survey | 2024 | TPAMI | survey paper |  |
 | Catastrophic forgetting in deep learning: A comprehensive taxonomy | 2024 | ArXiv | survey paper |  |
 | Recent advances of continual learning in computer vision: An overview | 2024 | ArXiv | survey paper |  |
-| Continual learning with pre-trained models: a survey | 2024 | IJCAI | survey paper |  |
+| Continual learning with pre-trained models: a survey | 2024 | IJCAI | survey paper | `**` |
 
 ### Research Papers
 
