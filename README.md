@@ -262,6 +262,7 @@ A curated and structured list of **Continual Learning**
 | Large scale incremental learning -- BiC | 2019 | CVPR | `Rep-Label` | `CIL` |
 | Learning a unified classifier incrementally via rebalancing -- LUC | 2019 | CVPR | `WR`, `Rep-Feat`, `**` | `CIL` |
 | Learn to grow: A continual structure learning framework for overcoming catastrophic forgetting -- L2G  | 2019 | ArXiv |  | `CIL` |
+| Variational prototype replays for continual learning -- VPR  | 2019 | ArXiv | `**` |  | 
 | Learning to remember: A synaptic plasticity driven framework for continual learning -- DGMa/DGMw/DGM | 2019 | CVPR | `Gen-Data`, `Arch-Seg` | `TIL` |
 | Learning without memorizing -- LWM | 2019 | CVPR | `WR` | `CIL` |
 | Il2M: Class incremental learning with dual memory -- IL2M | 2019 | ICCV | `Gen-Feat` | `CIL` |
