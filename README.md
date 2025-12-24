@@ -102,6 +102,7 @@ A curated and structured list of **Continual Learning**
 |-----------|----------|-----------|----------|-------------|
 | A reality check on pre-training for exemplar-free class-incremental learning | 2025 | CVPR | benchmark paper |  |
 | Continual learning: A systematic literature review | 2025 | Neural Networks | survey paper | `**` |
+| Class incremental learning from first principles: A review -- survey paper | 2025 | TMLR |  |  |
 | A comprehensive survey of continual learning: theory, method and application | 2024 | TPAMI | survey paper |  |
 | Class-incremental learning: A survey | 2024 | TPAMI | survey paper |  |
 | Catastrophic forgetting in deep learning: A comprehensive taxonomy | 2024 | ArXiv | survey paper |  |
