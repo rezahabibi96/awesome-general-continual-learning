@@ -315,6 +315,7 @@ A curated and structured list of **Continual Learning**
 | **Title** | **Year** | **Venue** | **Type** | **Setting** |
 |-----------|----------|-----------|----------|-------------|
 | Class-incremental learning for time series: Benchmark and evaluation | 2024 | KDD | benchmark paper |  |
+| Are time series foundation models susceptible to catastrophic forgetting | 2025 | ArXiv | benchmark paper |  |
 
 ### Research Papers
 
